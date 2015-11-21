@@ -1,9 +1,9 @@
 PrimeTeller
 ===========
 
-This software generates a wordlist that contains your PrimeTel password.
+This tool generates a wordlist that contains your PrimeTel password.
 
-The input is the mac.
+The input is the mac of the access point.
 
 Usage:
 ------
